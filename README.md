@@ -1,0 +1,2 @@
+## Objective
+Implemented a multi-layer perceptron containing a single hidden layer with 10 neurons to classify the given two-dimensional data. This is done by scratch without the use of PyTorch to get experience with the underlying mechanisms in a neural net and the math behind the backpropagation algorithm.
